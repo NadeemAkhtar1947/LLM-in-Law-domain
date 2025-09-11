@@ -26,7 +26,7 @@ This repository is a curated collection of research papers, datasets, models, an
 |---|-------|------|
 | 1 | Legal Prompt Engineering for Multilingual Legal Judgement Prediction | [arXiv](https://arxiv.org/pdf/2212.02199) |
 | 2 | Can GPT-3 Perform Statutory Reasoning? | [arXiv](https://arxiv.org/pdf/2302.06100) |
-| 3 | Legal Prompting: Teaching a Language Model to Think Like a Lawyer | [arXiv](https://arxiv.org/abs/2304.XXXXX) |
+| 3 | Legal Prompting: Teaching a Language Model to Think Like a Lawyer | [arXiv](https://arxiv.org/pdf/2212.01326) |
 | 4 | Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With AI Through Legal Standards | [arXiv](https://arxiv.org/abs/2306.XXXXX) |
 | 5 | ChatGPT Goes to Law School | [Paper](https://collimateur.uqam.ca/wp-content/uploads/sites/11/2023/01/SSRN-id4335905.pdf) |
 | 6 | How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgment Summarization? | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
