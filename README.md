@@ -64,7 +64,7 @@ This repository is a curated collection of research papers, datasets, models, an
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | SimuCourt: Judicial Decision-Making Agents with Real Judgement Docs | [arXiv](https://arxiv.org/abs/2312.XXXXX) |
+| 1 | SimuCourt: Judicial Decision-Making Agents with Real Judgement Docs | [arXiv]() |
 | 2 | Can LLMs Grasp Legal Theories? Multi-Agent Collaboration for Legal Reasoning | [arXiv](https://arxiv.org/abs/2401.XXXXX) |
 | 3 | Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction | [arXiv](https://arxiv.org/abs/2402.XXXXX) |
 | 4 | CLAIM: An Intent-Driven Multi-Agent Framework for Courtroom Dialogue | [arXiv](https://arxiv.org/abs/2403.XXXXX) |
@@ -89,16 +89,16 @@ This repository is a curated collection of research papers, datasets, models, an
 
 | # | Dataset / Resource | Link |
 |---|--------------------|------|
-| 1 | CAIL2018: Judgment Prediction Dataset | [arXiv](https://arxiv.org/abs/1807.XXXXX) |
-| 2 | CaseHold: 53k+ U.S. Legal Holdings | [arXiv](https://arxiv.org/abs/2104.XXXXX) |
-| 3 | LeCaRD: Chinese Legal Case Retrieval | [arXiv](https://arxiv.org/abs/2106.XXXXX) |
-| 4 | LeXFiles & LegalLAMA | [arXiv](https://arxiv.org/abs/2201.XXXXX) |
-| 5 | Legal Summarization of U.S. Court Opinions | [arXiv](https://arxiv.org/abs/2007.XXXXX) |
-| 6 | Awesome Chinese Legal Resources | [GitHub](https://github.com/XXXX) |
-| 7 | MultiLegalPile: 689 GB Multilingual Legal Corpus | [arXiv](https://arxiv.org/abs/2306.XXXXX) |
-| 8 | Cambridge Law Corpus | [arXiv](https://arxiv.org/abs/2305.XXXXX) |
+| 1 | CAIL2018: Judgment Prediction Dataset | [arXiv](https://arxiv.org/pdf/1807.02478) |
+| 2 | CaseHold: 53k+ U.S. Legal Holdings | [arXiv](https://arxiv.org/pdf/2410.02507) |
+| 3 | LeCaRD: Chinese Legal Case Retrieval | [arXiv](https://arxiv.org/pdf/2310.17609) |
+| 4 | LeXFiles & LegalLAMA | [arXiv](https://arxiv.org/pdf/2305.07507) |
+| 5 | Legal Summarization of U.S. Court Opinions | [arXiv](https://arxiv.org/pdf/2305.08428) |
+| 6 | .[MILPaC](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) | [arXiv](https://arxiv.org/pdf/2310.09765) |
+| 7 | MultiLegalPile: 689 GB Multilingual Legal Corpus | [arXiv](https://arxiv.org/pdf/2306.02069) |
+| 8 | Cambridge Law Corpus | [arXiv](https://arxiv.org/pdf/2309.12269) |
 | 9 | ChineseSafe: Safety Benchmark for LLMs | [arXiv](https://arxiv.org/abs/2309.XXXXX) |
-| 10 | CaseSumm: U.S. Supreme Court Summarization Dataset | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
+| 10 | CaseSumm: U.S. Supreme Court Summarization Dataset | [arXiv](https://arxiv.org/pdf/2501.00097) |https://github.com/project-anuvaad/anuvaad-parallel-corpus?tab=readme-ov-file
 
 ---
 
