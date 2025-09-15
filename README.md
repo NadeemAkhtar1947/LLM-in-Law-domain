@@ -30,8 +30,22 @@ This repository is a curated collection of research papers, datasets, models, an
 | 4 | Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With AI Through Legal Standards | [arXiv](https://arxiv.org/pdf/2301.10095) |
 | 5 | ChatGPT Goes to Law School | [Paper](https://collimateur.uqam.ca/wp-content/uploads/sites/11/2023/01/SSRN-id4335905.pdf) |
 | 6 | How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgment Summarization? | [arXiv](https://arxiv.org/pdf/2306.01248) |
-| 7 | LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in LLMs | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
-| … | … | … |
+| 7 | LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in LLMs | [arXiv](https://arxiv.org/pdf/2308.11462) |
+| 8 | ChatGPT, Professor of Law |  [arXiv](https://illinoisjltp.com/file/150/Oltz2023_Issue%201.pdf) |
+| 9 | … |   |
+| 10 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
+| 11 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
+| 12 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
+| 13 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
+| 14 | … | … |
+| 15 | … | … |
+| 16 | … | … |
+| 17 | … | … |
+| 18 | … | … |
+| 19 | … | … |
+| 20 | … | … |
+| 21 | … | … |
+
 
 ---
 
