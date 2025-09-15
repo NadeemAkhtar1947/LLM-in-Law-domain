@@ -38,13 +38,6 @@ This repository is a curated collection of research papers, datasets, models, an
 | 12 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
 | 13 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
 | 14 | … | … |
-| 15 | … | … |
-| 16 | … | … |
-| 17 | … | … |
-| 18 | … | … |
-| 19 | … | … |
-| 20 | … | … |
-| 21 | … | … |
 
 
 ---
@@ -94,11 +87,11 @@ This repository is a curated collection of research papers, datasets, models, an
 | 3 | LeCaRD: Chinese Legal Case Retrieval | [arXiv](https://arxiv.org/pdf/2310.17609) |
 | 4 | LeXFiles & LegalLAMA | [arXiv](https://arxiv.org/pdf/2305.07507) |
 | 5 | Legal Summarization of U.S. Court Opinions | [arXiv](https://arxiv.org/pdf/2305.08428) |
-| 6 | .[MILPaC](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) | [arXiv](https://arxiv.org/pdf/2310.09765) |
+| [6](https://github.com/Law-AI/MILPaC/tree/main/Data/MILPaC) | [MILPaC](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) | [arXiv](https://arxiv.org/pdf/2310.09765) |
 | 7 | MultiLegalPile: 689 GB Multilingual Legal Corpus | [arXiv](https://arxiv.org/pdf/2306.02069) |
 | 8 | Cambridge Law Corpus | [arXiv](https://arxiv.org/pdf/2309.12269) |
 | 9 | ChineseSafe: Safety Benchmark for LLMs | [arXiv](https://arxiv.org/abs/2309.XXXXX) |
-| 10 | CaseSumm: U.S. Supreme Court Summarization Dataset | [arXiv](https://arxiv.org/pdf/2501.00097) |https://github.com/project-anuvaad/anuvaad-parallel-corpus?tab=readme-ov-file
+| 10 | CaseSumm: U.S. Supreme Court Summarization Dataset | [arXiv](https://arxiv.org/pdf/2501.00097) |
 
 ---
 
@@ -106,17 +99,30 @@ This repository is a curated collection of research papers, datasets, models, an
 
 | # | Model | Link |
 |---|-------|------|
-| 1 | LawGPT_zh | [GitHub](https://github.com/XXXX/LawGPT_zh) |
-| 2 | LaWGPT | [GitHub](https://github.com/XXXX/LaWGPT) |
-| 3 | Lawyer LLaMA | [GitHub](https://github.com/XXXX/LawyerLLaMA) |
-| 4 | LexiLaw | [GitHub](https://github.com/XXXX/LexiLaw) |
-| 5 | LexGPT 0.1 (with Pile of Law) | [arXiv](https://arxiv.org/abs/2304.XXXXX) |
-| 6 | ChatLaw | [GitHub](https://github.com/XXXX/ChatLaw) |
-| 7 | DISC-LawLLM | [arXiv](https://arxiv.org/abs/2306.XXXXX) |
-| 8 | InternLM-Law | [GitHub](https://github.com/XXXX/InternLM-Law) |
-| 9 | SaulLM-54B & SaulLM-141B | [arXiv](https://arxiv.org/abs/2401.XXXXX) |
+| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 2 | LawGPT_zh | [GitHub](https://github.com/LiuHC0428/LAW-GPT) |
+| 3 | LaWGPT | [arXiv](https://arxiv.org/pdf/2406.04614) |
+| 4 | [Lawyer LLaMA](https://arxiv.org/pdf/2305.15062) | [GitHub](https://github.com/AndrewZhe/lawyer-llama) |
+| 5 | LexiLaw | [GitHub](https://github.com/CSHaitao/LexiLaw) |
+| 6 | LexGPT 0.1 (with Pile of Law) | [arXiv](https://arxiv.org/pdf/2306.05431) |
+| 7 | [InLegalBERT (India)]((https://huggingface.co/law-ai/InLegalBERT)) | [arXiv](https://arxiv.org/pdf/2209.06049) |
+| 8 | [LegalBERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) | [arXiv](https://arxiv.org/pdf/2010.02559) |
+| 9 | CaseLawBERT (US) | [arXiv](https://arxiv.org/pdf/2104.08671) |
+| 10 | [Lawformer (China)](https://github.com/thunlp/LegalPLMs) | [arXiv](https://arxiv.org/pdf/2105.03887) |
+| 11 | LexGLM (China) | [GitHub](https://github.com/THUDM/GLM) |
+| 12 | LegalT5 | [Hugging Face](https://huggingface.co/SEBIS/legal_t5_small_summ_en) |
+| 13 | JurisBERT | [GitHub](https://github.com/alfaneo-ai/brazilian-legal-text-dataset) |
+| 14 | Indian-LawyerGPT | [GitHub](https://github.com/NisaarAgharia/Indian-LawyerGPT) |
+| 15 | Indian-LegalGPT | [GitHub](https://github.com/jfontestad/Indian-LegalGPT) |
+| 16 | LegalLLaMA | [GitHub](https://github.com/YuvrajSharma9981/LegalLLaMa) |
+| 17 | [NYAYAANUMANA and INLEGALLLAMA](https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama?tab=readme-ov-file) | [arXiv](https://arxiv.org/pdf/2412.08385) |
+| 18 | LeXFiles and LegalLAMA | [arXiv](https://arxiv.org/pdf/2305.07507) |
+| 19 | InternLM-Law | [arXiv](https://arxiv.org/pdf/2406.14887) |
+| 20 | [ChatLaw](https://arxiv.org/pdf/2306.16092) | [GitHub](https://github.com/PKU-YuanGroup/ChatLaw?tab=readme-ov-file) |
+| 21 | DISC-LawLLM | [arXiv](https://github.com/FudanDISC/DISC-LawLLM) |
+| 22 | [SaulLM-54B & SaulLM-141B](https://arxiv.org/pdf/2407.19584) | [Hugging face](https://huggingface.co/Equall/SaulLM-54B-Instruct) |
+| 23 | lawgpt(gemini API) | [GitHub](https://github.com/ayuugoyal/lawgpt) |
 
----
 
 ## Evaluation Benchmarks
 
