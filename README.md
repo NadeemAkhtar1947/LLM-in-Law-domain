@@ -90,10 +90,30 @@ This repository is a curated collection of research papers, datasets, models, an
 | [6](https://github.com/Law-AI/MILPaC/tree/main/Data/MILPaC) | [MILPaC](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) | [arXiv](https://arxiv.org/pdf/2310.09765) |
 | 7 | MultiLegalPile: 689 GB Multilingual Legal Corpus | [arXiv](https://arxiv.org/pdf/2306.02069) |
 | 8 | Cambridge Law Corpus | [arXiv](https://arxiv.org/pdf/2309.12269) |
-| 9 | ChineseSafe: Safety Benchmark for LLMs | [arXiv](https://arxiv.org/abs/2309.XXXXX) |
 | 10 | CaseSumm: U.S. Supreme Court Summarization Dataset | [arXiv](https://arxiv.org/pdf/2501.00097) |
+| 11 | [legalbench](https://hazyresearch.stanford.edu/legalbench/) | [Hugging Face](https://huggingface.co/datasets/nguha/legalbench) |
+| 12 | [lex_glue](https://github.com/coastalcph/lex-glue) | [Hugging Face](https://huggingface.co/datasets/coastalcph/lex_glue) |
+| 13 | Australian legal cases | [Data source](https://archive.ics.uci.edu/dataset/239/legal+case+reports) |
+| 14 | [Cambridge Law Corpus](https://papers.nips.cc/paper_files/paper/2023/file/819b8452be7d6af1351d4c4f9cbdbd9b-Paper-Datasets_and_Benchmarks.pdf) | [Data source](https://www.repository.cam.ac.uk/items/15989444-8895-4cee-9966-c3c8a2872cf7) |
+| 15 | [Australian legal cases] | [Data source](https://archive.ics.uci.edu/dataset/239/legal+case+reports) |
+| 16 | [IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning](https://exploration-lab.github.io/IL-TUR/) | [arXiv](https://arxiv.org/pdf/2407.05399) |
+| 17 | MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding | [arXiv](https://www.semanticscholar.org/reader/a4f568b09301b09b994cceff4ee67859770fbd95) |
 
----
+
+## Survey paper on Law-Specialized LLMs
+| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 2 | [A Survey on Legal Judgment Prediction](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2204.04859) |
+| 3 | Evaluating LLM-based Approaches to Legal Citation Prediction: Domain-specific Pre-training, Fine-tuning, or RAG? A Benchmark and an Australian Law Case Study | [arXiv](https://www.semanticscholar.org/reader/7ca9859fc7dbe94b5a553598dec2948d1798ebf4) |
+
+
+## RAG related papers
+| 1 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://github.com/ajliouat/rag-llm) | [arXiv](https://www.semanticscholar.org/reader/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31) |
+| 1 | LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 1 | [Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+
+
 
 ## Law-Specialized LLMs
 
@@ -121,7 +141,13 @@ This repository is a curated collection of research papers, datasets, models, an
 | 20 | [ChatLaw](https://arxiv.org/pdf/2306.16092) | [GitHub](https://github.com/PKU-YuanGroup/ChatLaw?tab=readme-ov-file) |
 | 21 | DISC-LawLLM | [arXiv](https://github.com/FudanDISC/DISC-LawLLM) |
 | 22 | [SaulLM-54B & SaulLM-141B](https://arxiv.org/pdf/2407.19584) | [Hugging face](https://huggingface.co/Equall/SaulLM-54B-Instruct) |
+| 23 | LawLLM: Law Large Language Model for the US Legal System | [arXiv](https://dl.acm.org/doi/pdf/10.1145/3627673.3680020) |
+| 23 | [LLaMandement : Large Language Models for Summarization of French Legislative Proposals](https://huggingface.co/AgentPublic/LlaMAndement-13b) | [arXiv](https://arxiv.org/pdf/2401.16182) |
+| 23 | [InLegalLLaMA: Indian Legal Knowledge Enhanced Large Language Model](https://huggingface.co/sudipto-ducs/InLegalLLaMA) | [arXiv](https://ceur-ws.org/Vol-3818/paper3.pdf) |
 | 23 | lawgpt(gemini API) | [GitHub](https://github.com/ayuugoyal/lawgpt) |
+
+Nyay-Darpan: Enhancing Decision Making Through Summarization and
+Case Retrieval for Consumer Law in India
 
 
 ## Evaluation Benchmarks
