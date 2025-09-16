@@ -103,6 +103,9 @@ This repository is a curated collection of research papers, datasets, models, an
 ---
 
 ## Survey paper on Law-Specialized LLMs
+
+| # | Title | Link |
+|---|--------------------|------|
 | 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
 | 2 | [A Survey on Legal Judgment Prediction](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2204.04859) |
 | 3 | Evaluating LLM-based Approaches to Legal Citation Prediction: Domain-specific Pre-training, Fine-tuning, or RAG? A Benchmark and an Australian Law Case Study | [arXiv](https://www.semanticscholar.org/reader/7ca9859fc7dbe94b5a553598dec2948d1798ebf4) |
@@ -110,6 +113,9 @@ This repository is a curated collection of research papers, datasets, models, an
 ---
 
 ## RAG related papers
+
+| # | Title | Link |
+|---|--------------------|------|
 | 1 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://github.com/ajliouat/rag-llm) | [arXiv](https://www.semanticscholar.org/reader/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31) |
 | 2 | LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain | [arXiv](https://arxiv.org/pdf/2509.09969) |
 | 3 | [Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
