@@ -32,12 +32,7 @@ This repository is a curated collection of research papers, datasets, models, an
 | 6 | How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgment Summarization? | [arXiv](https://arxiv.org/pdf/2306.01248) |
 | 7 | LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in LLMs | [arXiv](https://arxiv.org/pdf/2308.11462) |
 | 8 | ChatGPT, Professor of Law |  [arXiv](https://illinoisjltp.com/file/150/Oltz2023_Issue%201.pdf) |
-| 9 | … |   |
-| 10 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
-| 11 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
-| 12 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
-| 13 | … |  [arXiv](https://arxiv.org/pdf/2308.11462) |
-| 14 | … | … |
+
 
 
 ---
@@ -46,10 +41,10 @@ This repository is a curated collection of research papers, datasets, models, an
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | LexPro-1.0 Technical Report | [arXiv](https://arxiv.org/abs/2402.XXXXX) |
-| 2 | LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning | [arXiv](https://arxiv.org/abs/2403.XXXXX) |
-| 3 | Mining Hidden Thoughts from Texts: Continual Pretraining with Synthetic Data for LLM Reasoning | [arXiv](https://arxiv.org/abs/2401.XXXXX) |
-| 4 | SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in LLMs | [arXiv](https://arxiv.org/abs/2402.XXXXX) |
+| 1 | LexPro-1.0 Technical Report | [arXiv](https://arxiv.org/pdf/2503.06949) |
+| 2 | LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning | [arXiv](https://arxiv.org/pdf/2504.02590v1) |
+| 3 | Mining Hidden Thoughts from Texts: Continual Pretraining with Synthetic Data for LLM Reasoning | [arXiv](https://arxiv.org/pdf/2505.10182) |
+| 4 | SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in LLMs | [arXiv](https://arxiv.org/pdf/2504.04042v1) |
 
 ---
 
@@ -57,24 +52,11 @@ This repository is a curated collection of research papers, datasets, models, an
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | SimuCourt: Judicial Decision-Making Agents with Real Judgement Docs | [arXiv]() |
-| 2 | Can LLMs Grasp Legal Theories? Multi-Agent Collaboration for Legal Reasoning | [arXiv](https://arxiv.org/abs/2401.XXXXX) |
-| 3 | Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction | [arXiv](https://arxiv.org/abs/2402.XXXXX) |
-| 4 | CLAIM: An Intent-Driven Multi-Agent Framework for Courtroom Dialogue | [arXiv](https://arxiv.org/abs/2403.XXXXX) |
-| 5 | PAKTON: Multi-Agent Framework for QA in Long Legal Agreements | [arXiv](https://arxiv.org/abs/2404.XXXXX) |
-
----
-
-## Legal Problems of LLMs
-
-| # | Title | Link |
-|---|-------|------|
-| 1 | Towards WinoQueer: Benchmark for Anti-Queer Bias in LLMs | [arXiv](https://arxiv.org/abs/2305.XXXXX) |
-| 2 | Persistent Anti-Muslim Bias in LLMs | [arXiv](https://arxiv.org/abs/2306.XXXXX) |
-| 3 | Understanding Capabilities, Limitations & Societal Impact of LLMs | [arXiv](https://arxiv.org/abs/2307.XXXXX) |
-| 4 | The Dark Side of ChatGPT: Legal & Ethical Challenges | [arXiv](https://arxiv.org/abs/2304.XXXXX) |
-| 5 | The GPTJudge: Justice in a Generative AI World | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
-| 6 | Is the U.S. Legal System Ready for AI’s Challenges to Human Values? | [arXiv](https://arxiv.org/abs/2309.XXXXX) |
+| 1 | SimuCourt: Judicial Decision-Making Agents with Real Judgement Docs | [arXiv](https://arxiv.org/pdf/2403.02959v1) |
+| 2 | Can LLMs Grasp Legal Theories? Multi-Agent Collaboration for Legal Reasoning | [arXiv](https://arxiv.org/pdf/2410.02507) |
+| 3 | Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction | [arXiv](https://arxiv.org/pdf/2502.06882) |
+| 4 | CLAIM: An Intent-Driven Multi-Agent Framework for Courtroom Dialogue | [arXiv](https://arxiv.org/pdf/2506.04131) |
+| 5 | PAKTON: Multi-Agent Framework for QA in Long Legal Agreements | [arXiv](https://arxiv.org/pdf/2506.00608) |
 
 ---
 
