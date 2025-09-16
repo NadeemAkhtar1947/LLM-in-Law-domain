@@ -33,8 +33,6 @@ This repository is a curated collection of research papers, datasets, models, an
 | 7 | LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in LLMs | [arXiv](https://arxiv.org/pdf/2308.11462) |
 | 8 | ChatGPT, Professor of Law |  [arXiv](https://illinoisjltp.com/file/150/Oltz2023_Issue%201.pdf) |
 
-
-
 ---
 
 ## Legal Reasoning Models
