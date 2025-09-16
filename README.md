@@ -98,7 +98,10 @@ This repository is a curated collection of research papers, datasets, models, an
 | 15 | [Australian legal cases] | [Data source](https://archive.ics.uci.edu/dataset/239/legal+case+reports) |
 | 16 | [IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning](https://exploration-lab.github.io/IL-TUR/) | [arXiv](https://arxiv.org/pdf/2407.05399) |
 | 17 | MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding | [arXiv](https://www.semanticscholar.org/reader/a4f568b09301b09b994cceff4ee67859770fbd95) |
+| 18 | Constructing a Knowledge Graph from Indian Legal Domain Corpus | [arXiv](https://ceur-ws.org/Vol-3184/TEXT2KG_Paper_6.pdf) |
 
+
+---
 
 ## Survey paper on Law-Specialized LLMs
 | 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
@@ -106,14 +109,24 @@ This repository is a curated collection of research papers, datasets, models, an
 | 3 | Evaluating LLM-based Approaches to Legal Citation Prediction: Domain-specific Pre-training, Fine-tuning, or RAG? A Benchmark and an Australian Law Case Study | [arXiv](https://www.semanticscholar.org/reader/7ca9859fc7dbe94b5a553598dec2948d1798ebf4) |
 
 
+---
+
 ## RAG related papers
 | 1 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://github.com/ajliouat/rag-llm) | [arXiv](https://www.semanticscholar.org/reader/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31) |
-| 1 | LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain | [arXiv](https://arxiv.org/pdf/2509.09969) |
-| 1 | [Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
-| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
-| 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 2 | LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 3 | [Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
+| 4 | [LRAGE: Legal Retrieval Augmented Generation Evaluation Tool](https://github.com/hoorangyee/LRAGE?tab=readme-ov-file) | [arXiv](https://www.semanticscholar.org/reader/5f19d6139a73e4aa6aba1835ed0230c67081f143) |
+| 5 | [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://github.com/abehou/CLERC) | [arXiv](https://www.semanticscholar.org/reader/3e231405a4ab25a3c7510c69a69d91e99d7cce76) |
+| 6 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | [arXiv](https://www.semanticscholar.org/reader/79e57387a664a5d7b128b2790a8f38f827e09124) |
+| 7 | Retrieval-Augmented Generation for Large Language Models: A Survey | [arXiv](https://www.semanticscholar.org/reader/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5) |
+| 8 | Evaluation of Retrieval-Augmented Generation: A Survey | [arXiv](https://www.semanticscholar.org/reader/3c6a6c8de005ef5722a54847747f65922e79d622) |
+| 9 | The Survey of Retrieval-Augmented Text Generation in Large Language Models | [arXiv](https://www.semanticscholar.org/reader/94034fd2ed4b6cf41113abb7adc9ae469313c958) |
+| 10 | Fine-Tuning Pre-Trained Language Models for Improved Retrieval in RAG Systems for Domain-Specific Use | [arXiv](https://www.ijfmr.com/papers/2024/5/22581.pdf) |
+| 11 | RAFT: Adapting Language Model to Domain Specific RAG | [arXiv](https://www.semanticscholar.org/reader/fdefb6a9b51c742d71740d25a76973116a2e0893) |
+| 11 | Nyay-Darpan: Enhancing Decision Making Through Summarization and Case Retrieval for Consumer Law in India | [arXiv](https://www.semanticscholar.org/reader/4723fa14a62098df1f8a50304158d5142a8de2fd) |
 
 
+---
 
 ## Law-Specialized LLMs
 
@@ -146,8 +159,6 @@ This repository is a curated collection of research papers, datasets, models, an
 | 23 | [InLegalLLaMA: Indian Legal Knowledge Enhanced Large Language Model](https://huggingface.co/sudipto-ducs/InLegalLLaMA) | [arXiv](https://ceur-ws.org/Vol-3818/paper3.pdf) |
 | 23 | lawgpt(gemini API) | [GitHub](https://github.com/ayuugoyal/lawgpt) |
 
-Nyay-Darpan: Enhancing Decision Making Through Summarization and
-Case Retrieval for Consumer Law in India
 
 
 ## Evaluation Benchmarks
