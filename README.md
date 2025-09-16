@@ -13,7 +13,7 @@ This repository is a curated collection of research papers, datasets, models, an
 3. [Legal Agents](#legal-agents)    
 4. [Data Resources for LLMs in Law](#data-resources-for-llms-in-law)
 5. [Survey paper on Law-Specialized LLMs](#Survey-paper-on-Law-Specialized-LLMs)
-6. [RAG related papers](RAG-related-papers)
+6. [RAG related papers](#RAG-related-papers)
 7. [Law-Specialized LLMs](#law-specialized-llms)  
 8. [Evaluation Benchmarks](#evaluation-benchmarks)  
 9. [License](#license)  
