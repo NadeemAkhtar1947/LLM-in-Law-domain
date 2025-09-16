@@ -10,12 +10,12 @@ This repository is a curated collection of research papers, datasets, models, an
 ## 📚 Table of Contents
 1. [Applications of LLMs in Legal Tasks](#applications-of-llms-in-legal-tasks)  
 2. [Legal Reasoning Models](#legal-reasoning-models)  
-3. [Legal Agents](#legal-agents)  
-4. [Legal Problems of LLMs](#legal-problems-of-llms)  
-5. [Data Resources for LLMs in Law](#data-resources-for-llms-in-law)  
-6. [Law-Specialized LLMs](#law-specialized-llms)  
-7. [Evaluation Benchmarks](#evaluation-benchmarks)  
-8. [Citation](#citation)  
+3. [Legal Agents](#legal-agents)    
+4. [Data Resources for LLMs in Law](#data-resources-for-llms-in-law)
+5. [Survey paper on Law-Specialized LLMs](#Survey-paper-on-Law-Specialized-LLMs)
+6. [RAG related papers](RAG-related-papers)
+7. [Law-Specialized LLMs](#law-specialized-llms)  
+8. [Evaluation Benchmarks](#evaluation-benchmarks)  
 9. [License](#license)  
 
 ---
@@ -171,17 +171,8 @@ This repository is a curated collection of research papers, datasets, models, an
 | 20 | Legal judgment prediction via legal knowledge extraction and fusion                                   | [arXiv](https://link.springer.com/content/pdf/10.1007/s44443-025-00019-0.pdf) |
 | 21 |  [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file#fine-tuning-with-llama-board-gui-powered-by-gradio)  | [arXiv](https://arxiv.org/abs/2309.03190) |
 | 22 | [Sentence Transformers: Embeddings, Retrieval, and Reranking](https://github.com/UKPLab/sentence-transformers)    | [arXiv]((https://arxiv.org/pdf/1908.10084)) |
-| 23 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
-| 24 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
-| 25 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
-| 26 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
-
-
-
-
 
 
 ---
 
-## Citation
 
