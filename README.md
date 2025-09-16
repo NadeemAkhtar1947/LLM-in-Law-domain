@@ -100,14 +100,12 @@ This repository is a curated collection of research papers, datasets, models, an
 | 17 | MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding | [arXiv](https://www.semanticscholar.org/reader/a4f568b09301b09b994cceff4ee67859770fbd95) |
 | 18 | Constructing a Knowledge Graph from Indian Legal Domain Corpus | [arXiv](https://ceur-ws.org/Vol-3184/TEXT2KG_Paper_6.pdf) |
 
-
 ---
 
 ## Survey paper on Law-Specialized LLMs
 | 1 | [Survey Paper](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2509.09969) |
 | 2 | [A Survey on Legal Judgment Prediction](https://github.com/ZhitianHou/LLMs4LegalAI) | [arXiv](https://arxiv.org/pdf/2204.04859) |
 | 3 | Evaluating LLM-based Approaches to Legal Citation Prediction: Domain-specific Pre-training, Fine-tuning, or RAG? A Benchmark and an Australian Law Case Study | [arXiv](https://www.semanticscholar.org/reader/7ca9859fc7dbe94b5a553598dec2948d1798ebf4) |
-
 
 ---
 
@@ -124,7 +122,6 @@ This repository is a curated collection of research papers, datasets, models, an
 | 10 | Fine-Tuning Pre-Trained Language Models for Improved Retrieval in RAG Systems for Domain-Specific Use | [arXiv](https://www.ijfmr.com/papers/2024/5/22581.pdf) |
 | 11 | RAFT: Adapting Language Model to Domain Specific RAG | [arXiv](https://www.semanticscholar.org/reader/fdefb6a9b51c742d71740d25a76973116a2e0893) |
 | 11 | Nyay-Darpan: Enhancing Decision Making Through Summarization and Case Retrieval for Consumer Law in India | [arXiv](https://www.semanticscholar.org/reader/4723fa14a62098df1f8a50304158d5142a8de2fd) |
-
 
 ---
 
@@ -160,6 +157,7 @@ This repository is a curated collection of research papers, datasets, models, an
 | 23 | lawgpt(gemini API) | [GitHub](https://github.com/ayuugoyal/lawgpt) |
 
 
+---
 
 ## Evaluation Benchmarks
 
