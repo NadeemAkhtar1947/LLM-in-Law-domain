@@ -165,18 +165,41 @@ This repository is a curated collection of research papers, datasets, models, an
 
 ---
 
-## Evaluation Benchmarks
+## Legal LLMs & Applications Papers
 
-| # | Benchmark | Link |
-|---|-----------|------|
-| 1 | Massive Multitask Chinese Understanding (MMCU) | [arXiv](https://arxiv.org/abs/2306.XXXXX) |
-| 2 | LawBench | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
-| 3 | LegalLLM Benchmark: Making the Case | [arXiv](https://arxiv.org/abs/2307.XXXXX) |
-| 4 | Better Call GPT: Comparing LLMs vs Lawyers | [arXiv](https://arxiv.org/abs/2309.XXXXX) |
-| 5 | GPT-3.5 on European Constitutional Texts | [arXiv](https://arxiv.org/abs/2308.XXXXX) |
-| 6 | LegalAgentBench | [arXiv](https://arxiv.org/abs/2401.XXXXX) |
-| 7 | LexTime: Temporal Ordering of Legal Events | [arXiv](https://arxiv.org/abs/2402.XXXXX) |
-| 8 | VLQA: Vietnamese Legal QA Dataset | [arXiv](https://arxiv.org/abs/2403.XXXXX) |
+| #  | Paper                                                                                                 | Link                                      |
+| -- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 1  | Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration                  | [arXiv](https://arxiv.org/abs/2310.09241) |
+| 2  | Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction               | [arXiv](https://arxiv.org/abs/2307.08321) |
+| 3  | RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with LLMs                         | [arXiv](https://arxiv.org/pdf/2505.21281) |
+| 4  | AutoLAW: Augmented Legal Reasoning through Legal Precedent Prediction                                 | [arXiv](https://arxiv.org/pdf/2106.16034) |
+| 5  | Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification  | [arXiv](https://aclanthology.org/2025.naacl-long.355.pdf) |
+| 6  | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models                                 | [arXiv](https://arxiv.org/pdf/2201.11903) |
+| 7  | Legal Prompting: Teaching a Language Model to Think Like a Lawyer                                     | [arXiv](https://arxiv.org/pdf/2212.01326) |
+| 8  | Can GPT-3 Perform Statutory Reasoning?                                                                | [arXiv](https://arxiv.org/pdf/2302.06100) |
+| 9  | CaseGPT: A Case Reasoning Framework with Retrieval-Augmented Generation                               | [arXiv](https://arxiv.org/pdf/2407.07913) |
+| 10 | Athena: Retrieval-augmented Legal Judgment Prediction with LLMs                                       | [arXiv](https://arxiv.org/pdf/2410.11195) |
+| 11 | CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in Legal QA                          | [arXiv](https://arxiv.org/pdf/2404.04302) |
+| 12 | AgentsCourt: Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation  | [arXiv](https://arxiv.org/pdf/2403.02959) |
+| 13 | LegalReasoner: Multi-Stage Framework for Legal Judgment Prediction via LLMs and Knowledge Integration | [arXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10750819) |
+| 14 | From Text to Structure: Using Large Language Models to Support Development of Legal Expert Systems    | [arXiv](https://arxiv.org/abs/2402.07240) |
+| 15 | Large Language Models for Judicial Entity Extraction: A Comparative Study                             | [arXiv](https://arxiv.org/pdf/2407.05786) |
+| 16 | Interpretable Long-Form Legal QA with Retrieval-Augmented LLMs                                        | [arXiv](https://arxiv.org/pdf/2309.17050) |
+| 17 | BLADE: Enhancing Black-Box LLMs with Small Domain-Specific Models                                     | [arXiv](https://arxiv.org/pdf/2403.18365) |
+| 18 | PolicyGPT: Automated Analysis of Privacy Policies with LLMs                                           | [arXiv](https://arxiv.org/pdf/2309.10238) |
+| 19 | GoldCoin: Grounding LLMs in Privacy Laws via Contextual Integrity Theory                              | [arXiv](https://arxiv.org/pdf/2406.11149) |
+| 20 | Legal judgment prediction via legal knowledge extraction and fusion                                   | [arXiv](https://link.springer.com/content/pdf/10.1007/s44443-025-00019-0.pdf) |
+| 21 |  [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file#fine-tuning-with-llama-board-gui-powered-by-gradio)  | [arXiv](https://arxiv.org/abs/2309.03190) |
+| 22 | [Sentence Transformers: Embeddings, Retrieval, and Reranking](https://github.com/UKPLab/sentence-transformers)    | [arXiv]((https://arxiv.org/pdf/1908.10084)) |
+| 23 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
+| 24 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
+| 25 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
+| 26 | Lessons Learned on Summarizing Legal Documents with RL + ChatGPT                                      | [arXiv](https://arxiv.org/abs/2309.03190) |
+
+
+
+
+
 
 ---
 
